@@ -1,0 +1,15 @@
+#blue_border {
+    border: 1px solid blue
+}
+
+#red_border {
+    border: 1px solid red
+}
+
+#green_border {
+    border: 1px solid green
+}
+
+.container {
+    margin: 15px;
+}
